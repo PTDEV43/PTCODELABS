@@ -1,0 +1,9 @@
+﻿{
+    "provider":  "RYN_ADMIN",
+    "endpoints":  [
+                      "collections/enterprise.json"
+                  ],
+    "id":  "ui-ux-registry-v1",
+    "last_updated":  "2026-06-03",
+    "version":  "1.0.0"
+}

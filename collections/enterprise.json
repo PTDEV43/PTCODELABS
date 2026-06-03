@@ -1,12 +1,47 @@
-﻿[
-  {
-    "name": "Material Design 3",
-    "url": "https://m3.material.io",
-    "category": "Enterprise"
-  },
-  {
-    "name": "shadcn/ui",
-    "url": "https://ui.shadcn.com",
-    "category": "Community"
-  }
+[
+    {
+        "name":  "Material Design 3",
+        "url":  "https://m3.material.io",
+        "category":  "Enterprise"
+    },
+    {
+        "name":  "shadcn/ui",
+        "url":  "https://ui.shadcn.com",
+        "category":  "Community"
+    },
+    {
+        "name":  "Ant Design",
+        "category":  "Enterprise",
+        "url":  "https://ant.design"
+    },
+    {
+        "url":  "https://atlassian.design",
+        "category":  "Enterprise",
+        "name":  "Atlassian Design"
+    },
+    {
+        "url":  "https://carbondesignsystem.com",
+        "category":  "Enterprise",
+        "name":  "Carbon Design System"
+    },
+    {
+        "url":  "https://polaris.shopify.com",
+        "category":  "Enterprise",
+        "name":  "Shopify Polaris"
+    },
+    {
+        "url":  "https://primer.style",
+        "category":  "Community",
+        "name":  "Primer"
+    },
+    {
+        "url":  "https://component.gallery",
+        "category":  "Community",
+        "name":  "The Component Gallery"
+    },
+    {
+        "url":  "https://design.wonderflow.ai",
+        "category":  "Experimental",
+        "name":  "Wanda Design System"
+    }
 ]

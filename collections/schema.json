@@ -1,0 +1,23 @@
+﻿{
+    "title":  "Design System Schema",
+    "properties":  {
+                       "url":  {
+                                   "type":  "string"
+                               },
+                       "category":  {
+                                        "enum":  [
+                                                     "Enterprise",
+                                                     "Community",
+                                                     "Experimental"
+                                                 ]
+                                    },
+                       "name":  {
+                                    "type":  "string"
+                                }
+                   },
+    "type":  "object",
+    "required":  [
+                     "name",
+                     "url"
+                 ]
+}
