@@ -1,0 +1,12 @@
+﻿[
+  {
+    "name": "Material Design 3",
+    "url": "https://m3.material.io",
+    "category": "Enterprise"
+  },
+  {
+    "name": "shadcn/ui",
+    "url": "https://ui.shadcn.com",
+    "category": "Community"
+  }
+]
